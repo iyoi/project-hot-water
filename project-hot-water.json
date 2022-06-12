@@ -1,0 +1,232 @@
+[
+  {
+    "motif": "白味噌",
+    "category": "味噌",
+    "gender": "女"
+  },
+  {
+    "motif": "赤味噌",
+    "category": "味噌",
+    "gender": "女"
+  },
+  {
+    "motif": "合わせ味噌",
+    "category": "味噌",
+    "gender": "男"
+  },
+  {
+    "motif": "大根",
+    "category": "根菜",
+    "gender": "女"
+  },
+  {
+    "motif": "人参",
+    "category": "根菜",
+    "gender": "女"
+  },
+  {
+    "motif": "じゃがいも",
+    "category": "根菜",
+    "gender": "男"
+  },
+  {
+    "motif": "鮭",
+    "category": "魚",
+    "gender": "女"
+  },
+  {
+    "motif": "鮎",
+    "category": "魚",
+    "gender":"女"
+  },
+  {
+    "motif": "鶏",
+    "category": "肉",
+    "gender":"男"
+  },
+  {
+    "motif": "豚",
+    "category": "肉",
+    "gender": "女"
+  },
+  {
+    "motif": "牛",
+    "category": "肉",
+    "gender": "女"
+  },
+  {
+    "motif": "赤飯",
+    "category": "米",
+    "gender": "女"
+  },
+  {
+    "motif": "白米",
+    "category": "米",
+    "gender": "女"
+  },
+  {
+    "motif": "炊き込み",
+    "category": "米",
+    "gender": "男"
+  },
+  {
+    "motif": "フォーク",
+    "category": "カトラリー",
+    "gender": "女"
+  },
+  {
+    "motif": "ナイフ",
+    "category": "カトラリー",
+    "gender": "女"
+  },
+  {
+    "motif": "スプーン",
+    "category": "カトラリー",
+    "gender": "女"
+  },
+  {
+    "motif": "はし",
+    "category": "カトラリー",
+    "gender": "女"
+  },
+  {
+    "motif": "パンケーキ",
+    "category": "デザート",
+    "gender": "女"
+  },
+  {
+    "motif": "そーめん",
+    "category": "麺類",
+    "gender": "男"
+  },
+  {
+    "motif": "そば",
+    "category": "麺類",
+    "gender": "男"
+  },
+  {
+    "motif": "うどん",
+    "category": "麺類",
+    "gender": "男"
+  },
+  {
+    "motif": "ハンバーグ",
+    "category": "お子様ランチ",
+    "gender": "男"
+  },
+  {
+    "motif": "オムライス",
+    "category": "お子様ランチ",
+    "gender": "男"
+  },
+  {
+    "motif": "ほたて",
+    "category": "貝類",
+    "gender": "女"
+  },
+  {
+    "motif": "あさり",
+    "category": "貝類",
+    "gender": "男"
+  },
+  {
+    "motif": "しじみ",
+    "category": "貝類",
+    "gender": "男"
+  },
+  {
+    "motif": "みかん",
+    "category": "フルーツ",
+    "gender": "男"
+  },
+  {
+    "motif": "りんご",
+    "category": "フルーツ",
+    "gender": "男"
+  },
+  {
+    "motif": "もも",
+    "category": "フルーツ",
+    "gender": "女"
+  },
+  {
+    "motif": "ざくろ",
+    "category": "ざくろ",
+    "gender": "？"
+  },
+  {
+    "motif": "馬",
+    "category": "ジビエ",
+    "gender": "女"
+  },
+  {
+    "motif": "鹿",
+    "category": "ジビエ",
+    "gender": "女"
+  },
+  {
+    "motif": "イノシシ",
+    "category": "ジビエ",
+    "gender": "女"
+  },
+  {
+    "motif": "ぶどう",
+    "category": "フルーツ２",
+    "gender": "おとこの娘"
+  },
+  {
+    "motif": "マスカット",
+    "category": "フルーツ２",
+    "gender": "おとこの娘"
+  },
+  {
+    "motif": "コーヒー",
+    "category": "ソフトドリンク",
+    "gender": "男"
+  },
+  {
+    "motif": "紅茶",
+    "category": "ソフトドリンク",
+    "gender": "女"
+  },
+  {
+    "motif": "ココア",
+    "category": "ソフトドリンク",
+    "gender": "女"
+  },
+  {
+    "motif": "日本酒",
+    "category": "アルコール",
+    "gender": "女"
+  },
+  {
+    "motif": "焼酎",
+    "category": "アルコール",
+    "gender": "男"
+  },
+  {
+    "motif": "料理酒",
+    "category": "アルコール",
+    "gender": "男"
+  },
+  {
+    "motif": "赤ワイン",
+    "category": "ワイン",
+    "gender": "女"
+  },
+  {
+    "motif": "白ワイン",
+    "category": "ワイン",
+    "gender": "女"
+  },
+  {
+    "motif": "生ハム",
+    "category": "生ハムメロン",
+    "gender": "女"
+  },
+  {
+    "motif": "メロン",
+    "category": "生ハムメロン",
+    "gender": "男"
+  }
+]
